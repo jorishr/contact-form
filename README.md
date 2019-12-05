@@ -1,5 +1,5 @@
 # contact-form
 
-Basic contact form functionality with NODEJS, EXPRESS & NODEMAILER
+Responsive contact form with NODEJS, EXPRESS & NODEMAILER and MAILGUN.
 
 Add your own account details for this to work.
