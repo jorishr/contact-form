@@ -1,0 +1,25 @@
+{
+  "name": "contact-form",
+  "version": "1.0.0",
+  "description": "Basic contact form functionality with NODEJS, EXPRESS & NODEMAILER",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorishr/contact-form.git"
+  },
+  "keywords": [],
+  "author": "Joris Raymaekers <joris@jorisr.com> (jorisr.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorishr/contact-form/issues"
+  },
+  "homepage": "https://github.com/jorishr/contact-form#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
